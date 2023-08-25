@@ -3,8 +3,8 @@
 Welcome to the IDM Registration Utility! This tool allows you to easily manage your IDM license key and customize your displayed name. Never worry about handling your IDM registration again.
 <img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/idm.png" alt="IDM Logo" width="20" height="18">
 ## Screenshots
-Here's a glimpse of what the IDM Registration Utility looks like:
-![IDM Screenshot](https://www.internetdownloadmanager.com/images/idm_screenshot_6_35.png)
+Here's a screenshot of what the Registerd IDM looks like:
+![IDM Screenshot](https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/image.png)
 
 ## How to Use
 1. Clone this repository to your local machine.
