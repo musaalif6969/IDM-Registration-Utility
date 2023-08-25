@@ -1,7 +1,10 @@
 <h1 style="margin-left: 20px;">IDM Registration Utility (idman641, Build 18, Latest Version)</h1>
 
-Welcome to the IDM Registration Utility! This tool allows you to easily manage your IDM license key and customize your displayed name. Never worry about handling your IDM registration again.
+Welcome to my repository! This IDM is not crack or unoffcial vertion, it just register IDM with valid key which has been purchased !
+Crack and Unoficial vertion contains Virus and trojans, you can download official IDM and register it via this py script.
 <img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/idm.png" alt="IDM Logo" width="20" height="18">
+Here is the Virustotal report of this IDM ![image](https://github.com/musaalif6969/IDM-Registered-Version/assets/139727811/0bc47c57-5a11-437f-96d5-e3f22ec6cd37)
+
 ## Screenshots
 Here's a screenshot of what the Registerd IDM looks like:
 ![IDM Screenshot](https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/image.png)
