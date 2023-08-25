@@ -4,7 +4,7 @@ Welcome to my repository! This IDM is not crack or unoffcial vertion, it just re
 Crack and Unoficial vertion contains Virus and trojans, you can download official IDM and register it via this py script.
 <img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/idm.png" alt="IDM Logo" width="20" height="18">
 ## Additional Resources
-- If you have any concerns about the IDM Registration Utility, you can use [VirusTotal](https://www.virustotal.com) to scan the executable file for peace of mind. 
+- If you have any concerns about the IDM Utility, you can use [VirusTotal](https://www.virustotal.com) to scan the executable file for peace of mind. 
 <br>
 Herse the Report <br>
 <a href="https://www.virustotal.com/gui/file/6ee0630168046a59382c17cc230cf667853858b6a1fc848b3dd118869f729cdf" target="_blank">
@@ -12,7 +12,7 @@ Herse the Report <br>
 </a>
 
 
-Description of your report or project goes here.
+You can find resources in resources folder.
 
 
 ## Screenshots
