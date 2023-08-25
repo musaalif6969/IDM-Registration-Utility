@@ -6,8 +6,10 @@ Crack and Unoficial vertion contains Virus and trojans, you can download officia
 ## Additional Resources
 - If you have any concerns about the IDM Registration Utility, you can use [VirusTotal](https://www.virustotal.com) to scan the executable file for peace of mind. 
 <br>
-Herse the Report
-[<img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/Virustotal_logo_pixelalign.png" alt="IDM Logo" width="200" height="60" target="_blank">](https://www.virustotal.com/gui/file/6ee0630168046a59382c17cc230cf667853858b6a1fc848b3dd118869f729cdf)
+Herse the Report <br>
+<a href="https://www.virustotal.com/gui/file/6ee0630168046a59382c17cc230cf667853858b6a1fc848b3dd118869f729cdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/Virustotal_logo_pixelalign.png" alt="IDM Logo" width="200" height="60">
+</a>
 
 
 Description of your report or project goes here.
