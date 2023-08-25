@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://i0.wp.com/webkumal.com/storage/2023/03/idm.webp?fit=200%2C200&ssl=1" alt="IDM Logo" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/idm.png" alt="IDM Logo" width="100" height="100">
   <h1 style="margin-left: 20px;">IDM Registration Utility (idman641, Build 18, Latest Version)</h1>
 </div>
 
