@@ -20,38 +20,34 @@ Here's a screenshot of what the Registerd IDM looks like:
 ![IDM Screenshot](https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/image.png)
 
 ## How to Use
-1. Clone this repository to your local machine.
-2. Run the IDM Registration Utility executable.
-3. Input your valid license key when prompted.
-4. Customize your displayed name as you prefer.
-5. Enjoy hassle-free IDM registration and personalization!
+1. Install Pythion on your device.
+2. Copy this command, and past it on cmd (Administration required)
+```python
+def hello_world():
+    print("Hello, world!")
 
-## Additional Resources
-- If you have any concerns about the IDM Registration Utility, you can use [VirusTotal](https://www.virustotal.com) to scan the executable file for peace of mind.
-
-## Contribute
-Found a bug or have a feature suggestion? We'd love your input! Feel free to fork this repository, make your changes, and submit a pull request. Let's make this utility even better together.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+hello_world()
+```
+3.Your good to go !
 
 ---
 
-Give a ⭐️ if this utility has been helpful to you!
+## Additional Info
 
 
 ```ini
 ; First Name
-[FName]="HANTech /"
+[FName]="Musa"
 
 ; Installation Status
 [InstallStatus]=dword:00000003
 
 ; Last Name
-[LName]="HANTech"
+[LName]="Alif"
 
 ; Email Address
 [Email]="info@tonec.com"
 
 ; Serial Key
 [Serial]="HE3TB-8J3SY-FP9SC-6RKR2"
+```
