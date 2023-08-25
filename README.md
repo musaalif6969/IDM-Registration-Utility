@@ -1,10 +1,7 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/idm.png" alt="IDM Logo" width="100" height="100">
-  <h1 style="margin-left: 20px;">IDM Registration Utility (idman641, Build 18, Latest Version)</h1>
-</div>
+<h1 style="margin-left: 20px;">IDM Registration Utility (idman641, Build 18, Latest Version)</h1>
 
 Welcome to the IDM Registration Utility! This tool allows you to easily manage your IDM license key and customize your displayed name. Never worry about handling your IDM registration again.
-
+<img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/idm.png" alt="IDM Logo" width="20" height="18">
 ## Screenshots
 Here's a glimpse of what the IDM Registration Utility looks like:
 ![IDM Screenshot](https://www.internetdownloadmanager.com/images/idm_screenshot_6_35.png)
