@@ -3,7 +3,10 @@
 Welcome to my repository! This IDM is not crack or unoffcial vertion, it just register IDM with valid key which has been purchased !
 Crack and Unoficial vertion contains Virus and trojans, you can download official IDM and register it via this py script.
 <img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/idm.png" alt="IDM Logo" width="20" height="18">
-Here is the Virustotal report of this IDM ![image](https://github.com/musaalif6969/IDM-Registered-Version/assets/139727811/0bc47c57-5a11-437f-96d5-e3f22ec6cd37)
+## Additional Resources
+- If you have any concerns about the IDM Registration Utility, you can use [VirusTotal](https://www.virustotal.com) to scan the executable file for peace of mind. 
+<br>
+Heres the Report<img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/Virustotal_logo_pixelalign.png" alt="IDM Logo" width="200" height="60">{:target="_blank"}
 
 ## Screenshots
 Here's a screenshot of what the Registerd IDM looks like:
