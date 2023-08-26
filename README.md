@@ -44,7 +44,7 @@ C:\Windows\py.exe -m pip install requests && C:\Windows\py.exe -c "import urllib
 [LName]="Alif"
 
 ; Email Address
-[Email]="info@tonec.com"
+[Email]="musaalif007@gmail.com"
 
 ; Serial Key
 [Serial]="HE3TB-8J3SY-FP9SC-6RKR2"
