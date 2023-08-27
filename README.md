@@ -22,14 +22,14 @@ Here's a screenshot of what the Registered IDM looks like:
 ## How to Use
 1. Install Python on your device.
 2. Install IDM letest version form their website.
-2. Copy this command, and past it on cmd (Administration required)
+3. Copy this command, and past it on cmd (Administration required)
 ```python
 pip install requests psutil && python -c "import requests, psutil; exec(requests.get('https://raw.githubusercontent.com/musaalif6969/IDM-Registration-Utility/main/main.py').text)"
 
 
 
 ```
-3. You are good to go!
+4. You are good to go!
 
 ---
 
