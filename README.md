@@ -24,7 +24,8 @@ Here's a screenshot of what the Registered IDM looks like:
 2. Install IDM letest version form their website.
 3. Copy this command, and past it on cmd (Administration required)
 ```python
-pip install requests psutil && python -c "import requests, psutil; exec(requests.get('https://raw.githubusercontent.com/musaalif6969/IDM-Registration-Utility/main/main.py').text)"
+pip install requests psutil && python -c "import subprocess, os; subprocess.Popen(['python', '-c', 'import requests, psutil; exec(requests.get(\"https://raw.githubusercontent.com/musaalif6969/IDM-Registration-Utility/main/main.py\").text)'], cwd=os.getcwd(), shell=True)"
+
 
 
 
