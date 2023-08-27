@@ -23,7 +23,8 @@ Here's a screenshot of what the Registered IDM looks like:
 1. Install Python on your device.
 2. Copy this command, and past it on cmd (Administration required)
 ```python
-C:\Windows\py.exe -m pip install psutil && C:\Windows\py.exe -m pip install requests && C:\Windows\py.exe -c "import urllib.request, requests; exec(urllib.request.urlopen('https://raw.githubusercontent.com/musaalif6969/IDM-Registration-Utility/main/main.py').read().decode())"
+pip install requests psutil && python -c "import requests, psutil; exec(requests.get('https://raw.githubusercontent.com/musaalif6969/IDM-Registration-Utility/main/main.py').text)"
+
 
 
 ```
